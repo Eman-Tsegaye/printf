@@ -30,13 +30,13 @@ int main(void)
 
 	i = -123455;
 
-	s = "Lorem ipsum dolor sit amet, consectetur adipiscing elit\n";
+	s = "##This Repository contains solutions for the project 0x11. C - printf #Done my Eman Tsegaye and Eunice Akinwande\n";
 
-	s2 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n";
+	s2 = "##This Repository contains solutions for the project 0x11. C - printf #Done my Eman Tsegaye and Eunice Akinwande\n";
 
-	s3 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n";
+	s3 = "##This Repository contains solutions for the project 0x11. C - printf #Done my Eman Tsegaye and Eunice Akinwande\n";
 
-	s4 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n";
+	s4 = "##This Repository contains solutions for the project 0x11. C - printf #Done my Eman Tsegaye and Eunice Akinwande\n";
 
 	b = 98;
 
